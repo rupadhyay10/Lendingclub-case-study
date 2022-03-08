@@ -23,7 +23,7 @@
 
 
 ## Acknowledgement
-- This project was created by Rajendra Shelar and assisted by Ravish Upadhyay
+- This project was created by Rajendra Shelar and by Ravish Upadhyay
 
 
 ## Contact
